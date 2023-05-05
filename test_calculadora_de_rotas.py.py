@@ -1,7 +1,7 @@
 from calculadora_de_rotas import Rotas, Rota
 
 
-def test_rotas():
+def test_calculadora_rotas():
     rotas = Rotas()
 
     # Adiciona as rotas
@@ -25,5 +25,5 @@ def test_rotas():
     assert rota.valor_rota(['A', 'B', 'D']) is None
 
 if __name__ == '__main__':
-    test_rotas()
+    test_calculadora_rotas()
     print('Todos os testes passaram.')
