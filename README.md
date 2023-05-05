@@ -10,4 +10,7 @@ rotas.
 finais e intermediários e seus valores como exemplos de uso.
 
 
-## Para testar, abrir o arquivo test_calculadora_de_rotas.py e executar
+## Para testar, abrir o arquivo test_calculadora_de_rotas.py e executar:
+```bash
+python test_calculadora_de_rotas.py 
+```
