@@ -8,3 +8,6 @@ python que consiga calcular essas somas e outra classe que salve todas as rotas 
 rotas.
  - Inicialmente considere apenas um ponto de partida em "São Paulo". Você pode definir destinos
 finais e intermediários e seus valores como exemplos de uso.
+
+
+## Para testar, abrir o arquivo test_calculadora_de_rotas.py e executar
